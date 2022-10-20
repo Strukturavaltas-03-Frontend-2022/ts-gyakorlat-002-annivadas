@@ -1,6 +1,6 @@
 # TypeScript basic típusok
 
-## Kezdő lépések
+## Kezdő lépések 
 - Lépj be a klónozott mappába, és állítsd be a projektet:
 - `cd <repo-name>`
 - `code . -r`
